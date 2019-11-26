@@ -11,3 +11,5 @@ The etl.py python program is used to process the entire datasets and inserts the
 sql_queries.py conatins all the queries that we used to create and insert the database tables.
 test.ipynb is used to test the queries.
 
+![Database Star Schema](/Scan.pdf)
+
